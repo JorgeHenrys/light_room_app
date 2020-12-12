@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57645507938",
+    "firebase_url": "https://temperauter-default-rtdb.firebaseio.com",
+    "project_id": "temperauter",
+    "storage_bucket": "temperauter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57645507938:android:22a6b494e18c881e9fb83b",
+        "android_client_info": {
+          "package_name": "com.expcode.temperauter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57645507938-siv29g534vfsi9kd5gsaqu04vb2v0a5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expcode.temperauter",
+            "certificate_hash": "e04a0f7c063759c59d200c76304ff28b5daa7980"
+          }
+        },
+        {
+          "client_id": "57645507938-b8s4le5vfnp7pvqhcq0g904gnlprdou1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxCJukJ8j6W85oxUUCm9K5lAlFDOQeyY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57645507938-b8s4le5vfnp7pvqhcq0g904gnlprdou1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
